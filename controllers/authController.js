@@ -52,7 +52,7 @@ const maxAge = 3*24*60*60;
 
 // function to create JWT from user_id in the mongodb database
 const createToken = (id) => {
-    return jwt.sign({ id }, 'varun-secret', {
+    return jwt.sign({ id }, 'process.env.JWT_SECRET', {
         expiresIn: maxAge
     });
 
