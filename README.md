@@ -31,8 +31,8 @@ It includes secure signup and login functionality, protected routes, and EJS-ren
 
 This project was built for learning purposes by following these excellent resources:
 
-- 📺 **YouTube Playlist:** https://youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp&si=XBHTxJytHQ3u6ja9
-- 💻 **Original GitHub Repository:** https://github.com/iamshaunjp/node-express-jwt-auth
+- **YouTube Playlist:** https://youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp&si=XBHTxJytHQ3u6ja9
+- **Original GitHub Repository:** https://github.com/iamshaunjp/node-express-jwt-auth
 
 All credit for the base code and structure goes to the original creator.  
 This version was recreated for self-learning and deeper understanding, with added explanations, comments, and custom modifications.
